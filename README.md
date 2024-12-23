@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm 이형석</h1>
-<h3 align="center">Backend Developer</h3>
+<h3 align="center">Backend Developer | Passionate about coding and problem-solving | Exploring the future of technology</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=southwinds97&label=Profile%20views&color=0e75b6&style=flat" alt="southwinds97" /> </p>
 
